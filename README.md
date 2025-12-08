@@ -549,9 +549,7 @@ En **Manage QuickSight → Security & Permissions**, habilitar acceso a:
 │   └── 📁 lambda/
 │       └── 📄 lambda_function.py    # Código de la función Lambda
 ├── 📁 sql/
-│   ├── 📄 create_database.sql       # Script creación de DB
-│   ├── 📄 create_table_taxis.sql    # Script creación de tabla
-│   └── 📄 queries_examples.sql      # Consultas de ejemplo
+│   ├── 📄 db.sql       # Script creación de DB
 └── 📁 docs/
     ├── 🖼️ arquitectura.png          # Diagrama de arquitectura
     └── 📄 informe.pdf               # Informe académico
@@ -577,7 +575,7 @@ En **Manage QuickSight → Security & Permissions**, habilitar acceso a:
 
 *Ingeniería Informática - ULACIT*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azielquesada)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azielq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azielquesada)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azielquesada.dev)
 
